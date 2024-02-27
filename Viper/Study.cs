@@ -16,5 +16,33 @@ namespace Viper
         {
             InitializeComponent();
         }
+
+        // This code is just for testing.
+        // Things like prompts and answers are hardcoded,
+        // but later they will be changed to a better system.
+
+        string[] prompts =
+        {
+            "What color is the sky?",
+            "How many hours are in a day?",
+            "What programming language do Windows forms use?",
+            "How many feet are in a mile?",
+            "What year did the USA declare independence?"
+        };
+        string[] answers = { "blue", "24", "c#", "5280", "1776" };
+        string userAnswer = "";
+
+        private void frmStudy_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btnSubmit_Click(object sender, EventArgs e)
+        {
+            // Placeholder behavior
+            userAnswer = txtAnswer.Text;
+            txtAnswer.Clear();
+            txtAnswer.Focus();
+        }
     }
 }

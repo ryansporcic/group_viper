@@ -28,33 +28,83 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnSubmit = new System.Windows.Forms.Button();
+            this.txtPrompt = new System.Windows.Forms.TextBox();
+            this.txtAnswer = new System.Windows.Forms.TextBox();
+            this.lblPrompt = new System.Windows.Forms.Label();
+            this.lblAnswer = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // button1
+            // btnSubmit
             // 
-            this.button1.Location = new System.Drawing.Point(151, 162);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnSubmit.Location = new System.Drawing.Point(175, 77);
+            this.btnSubmit.Name = "btnSubmit";
+            this.btnSubmit.Size = new System.Drawing.Size(75, 23);
+            this.btnSubmit.TabIndex = 0;
+            this.btnSubmit.Text = "Submit";
+            this.btnSubmit.UseVisualStyleBackColor = true;
+            this.btnSubmit.Click += new System.EventHandler(this.btnSubmit_Click);
+            // 
+            // txtPrompt
+            // 
+            this.txtPrompt.Location = new System.Drawing.Point(58, 12);
+            this.txtPrompt.Multiline = true;
+            this.txtPrompt.Name = "txtPrompt";
+            this.txtPrompt.ReadOnly = true;
+            this.txtPrompt.Size = new System.Drawing.Size(192, 60);
+            this.txtPrompt.TabIndex = 1;
+            // 
+            // txtAnswer
+            // 
+            this.txtAnswer.Location = new System.Drawing.Point(59, 79);
+            this.txtAnswer.Name = "txtAnswer";
+            this.txtAnswer.Size = new System.Drawing.Size(110, 20);
+            this.txtAnswer.TabIndex = 2;
+            // 
+            // lblPrompt
+            // 
+            this.lblPrompt.AutoSize = true;
+            this.lblPrompt.Location = new System.Drawing.Point(12, 36);
+            this.lblPrompt.Name = "lblPrompt";
+            this.lblPrompt.Size = new System.Drawing.Size(40, 13);
+            this.lblPrompt.TabIndex = 3;
+            this.lblPrompt.Text = "Prompt";
+            // 
+            // lblAnswer
+            // 
+            this.lblAnswer.AutoSize = true;
+            this.lblAnswer.Location = new System.Drawing.Point(12, 83);
+            this.lblAnswer.Name = "lblAnswer";
+            this.lblAnswer.Size = new System.Drawing.Size(42, 13);
+            this.lblAnswer.TabIndex = 4;
+            this.lblAnswer.Text = "Answer";
             // 
             // frmStudy
             // 
+            this.AcceptButton = this.btnSubmit;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(595, 346);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(268, 122);
+            this.Controls.Add(this.lblAnswer);
+            this.Controls.Add(this.lblPrompt);
+            this.Controls.Add(this.txtAnswer);
+            this.Controls.Add(this.txtPrompt);
+            this.Controls.Add(this.btnSubmit);
             this.Name = "frmStudy";
             this.Text = "Study";
+            this.Load += new System.EventHandler(this.frmStudy_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnSubmit;
+        private System.Windows.Forms.TextBox txtPrompt;
+        private System.Windows.Forms.TextBox txtAnswer;
+        private System.Windows.Forms.Label lblPrompt;
+        private System.Windows.Forms.Label lblAnswer;
     }
 }
 

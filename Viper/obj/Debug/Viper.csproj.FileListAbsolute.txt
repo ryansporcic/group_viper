@@ -1,0 +1,10 @@
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\bin\Debug\Viper.exe.config
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\bin\Debug\Viper.exe
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\bin\Debug\Viper.pdb
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\obj\Debug\Viper.csproj.AssemblyReference.cache
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\obj\Debug\Viper.frmStudy.resources
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\obj\Debug\Viper.Properties.Resources.resources
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\obj\Debug\Viper.csproj.GenerateResource.cache
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\obj\Debug\Viper.csproj.CoreCompileInputs.cache
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\obj\Debug\Viper.exe
+C:\Users\thedu\OneDrive - SNHU\CS-114\repos\group_viper\Viper\obj\Debug\Viper.pdb
