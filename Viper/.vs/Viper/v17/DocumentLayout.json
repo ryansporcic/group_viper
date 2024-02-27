@@ -3,63 +3,29 @@
   "WorkspaceRootPath": "C:\\Users\\thedu\\OneDrive - SNHU\\CS-114\\repos\\group_viper\\Viper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72653B8B-D7A7-4633-802A-5EC2490DC72E}|Viper.csproj|c:\\users\\thedu\\onedrive - snhu\\cs-114\\repos\\group_viper\\viper\\study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{72653B8B-D7A7-4633-802A-5EC2490DC72E}|Viper.csproj|solutionrelative:study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72653B8B-D7A7-4633-802A-5EC2490DC72E}|Viper.csproj|c:\\users\\thedu\\onedrive - snhu\\cs-114\\repos\\group_viper\\viper\\study.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72653B8B-D7A7-4633-802A-5EC2490DC72E}|Viper.csproj|solutionrelative:study.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72653B8B-D7A7-4633-802A-5EC2490DC72E}|Viper.csproj|c:\\users\\thedu\\onedrive - snhu\\cs-114\\repos\\group_viper\\viper\\study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72653B8B-D7A7-4633-802A-5EC2490DC72E}|Viper.csproj|solutionrelative:study.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{634FDAAE-9C8A-4697-A5FC-A70598B48DAE}|Viper.csproj|c:\\users\\thedu\\onedrive - snhu\\cs-114\\repos\\group_viper\\viper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{634FDAAE-9C8A-4697-A5FC-A70598B48DAE}|Viper.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 158,
+      "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Study.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\thedu\\OneDrive - SNHU\\CS-114\\repos\\group_viper\\Viper\\Study.Designer.cs",
-              "RelativeDocumentMoniker": "Study.Designer.cs",
-              "ToolTip": "C:\\Users\\thedu\\OneDrive - SNHU\\CS-114\\repos\\group_viper\\Viper\\Study.Designer.cs*",
-              "RelativeToolTip": "Study.Designer.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T17:25:03.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Study.cs",
-              "DocumentMoniker": "C:\\Users\\thedu\\OneDrive - SNHU\\CS-114\\repos\\group_viper\\Viper\\Study.cs",
-              "RelativeDocumentMoniker": "Study.cs",
-              "ToolTip": "C:\\Users\\thedu\\OneDrive - SNHU\\CS-114\\repos\\group_viper\\Viper\\Study.cs*",
-              "RelativeToolTip": "Study.cs*",
-              "ViewState": "AQIAAAgAAAAAAAAAAAD4vxIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T17:33:35.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Study.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\thedu\\OneDrive - SNHU\\CS-114\\repos\\group_viper\\Viper\\Study.cs",
-              "RelativeDocumentMoniker": "Study.cs",
-              "ToolTip": "C:\\Users\\thedu\\OneDrive - SNHU\\CS-114\\repos\\group_viper\\Viper\\Study.cs [Design]*",
-              "RelativeToolTip": "Study.cs [Design]*",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thedu\\OneDrive - SNHU\\CS-114\\repos\\group_viper\\Viper\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\thedu\\OneDrive - SNHU\\CS-114\\repos\\group_viper\\Viper\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T17:04:24.637Z",
+              "WhenOpened": "2024-02-27T17:56:11.392Z",
               "EditorCaption": " [Design]"
             }
           ]

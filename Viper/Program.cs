@@ -16,7 +16,7 @@ namespace Viper
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmStudy());
+            Application.Run(new Form1());
         }
     }
 }

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{72653B8B-D7A7-4633-802A-5EC2490DC72E}</ProjectGuid>
+    <ProjectGuid>{634FDAAE-9C8A-4697-A5FC-A70598B48DAE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Viper</RootNamespace>
     <AssemblyName>Viper</AssemblyName>
