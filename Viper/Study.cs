@@ -17,10 +17,8 @@ namespace Viper
             InitializeComponent();
         }
 
-        // This code is just for testing.
-        // Things like prompts and answers are hardcoded,
-        // but later they will be changed to a better system.
-
+        // Example deck for testing.
+        // In the future, this information should be stored in separate files.
         string[] prompts =
         {
             "What color is the sky?",
