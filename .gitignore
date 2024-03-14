@@ -1,6 +1,1 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/Viper/.vs/Viper/FileContentIndex/81390317-6ea8-4ced-9481-df3b8803fc81.vsidx
-/Viper/.vs/Viper/FileContentIndex/8e845ceb-9e71-40ff-bce9-bb1642f3bdbd.vsidx
+﻿/Viper/.vs/
