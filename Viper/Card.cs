@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Viper
 {
@@ -11,15 +12,22 @@ namespace Viper
         private string Front;
         private string Back;
 
-        public Card(string front, string back)
+        public Card(string fields)
         {
-            Front = front;
-            Back = back;
+            string[] strings = fields.Split(',');
+            Front = strings[0];
+            Back = strings[1];
         }
 
         public bool tryAnswer(string answer)
         {
             return answer.Equals(Back);
+        }
+
+        // TEMPORARY DEBUG BEHAVIOR
+        public void messageBoxDebug()
+        {
+            MessageBox.Show($"Front: {Front}\nBack: {Back}", "Card", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
