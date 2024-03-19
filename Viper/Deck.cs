@@ -10,7 +10,7 @@ namespace Viper
     {
         private Card[] Cards;
 
-        private Deck()
+        private Deck(string filename)
         {
             // Load fronts and backs of cards from file,
             // then instantiate Card objects in Cards
