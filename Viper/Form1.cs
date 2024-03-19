@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Viper
 {
-    public partial class Form1 : Form
+    public partial class formStudyProgram : Form
     {
-        public Form1()
+        public formStudyProgram()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
