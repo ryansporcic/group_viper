@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\thedu\\source\\repos\\Viper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{634FDAAE-9C8A-4697-A5FC-A70598B48DAE}|Viper.csproj|c:\\users\\thedu\\source\\repos\\viper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{634FDAAE-9C8A-4697-A5FC-A70598B48DAE}|Viper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{634FDAAE-9C8A-4697-A5FC-A70598B48DAE}|Viper.csproj|c:\\users\\thedu\\source\\repos\\viper\\study.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{634FDAAE-9C8A-4697-A5FC-A70598B48DAE}|Viper.csproj|solutionrelative:study.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Study.cs",
               "DocumentMoniker": "C:\\Users\\thedu\\source\\repos\\Viper\\Study.cs",
               "RelativeDocumentMoniker": "Study.cs",
@@ -55,20 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thedu\\source\\repos\\Viper\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\thedu\\source\\repos\\Viper\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T15:06:04.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Deck1.txt",
               "DocumentMoniker": "C:\\Users\\thedu\\source\\repos\\Viper\\Decks\\Deck1.txt",
               "RelativeDocumentMoniker": "Decks\\Deck1.txt",
@@ -80,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Deck.cs",
               "DocumentMoniker": "C:\\Users\\thedu\\source\\repos\\Viper\\Deck.cs",
               "RelativeDocumentMoniker": "Deck.cs",
@@ -92,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\thedu\\source\\repos\\Viper\\Card.cs",
               "RelativeDocumentMoniker": "Card.cs",
@@ -104,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Study.Designer.cs",
               "DocumentMoniker": "C:\\Users\\thedu\\source\\repos\\Viper\\Study.Designer.cs",
               "RelativeDocumentMoniker": "Study.Designer.cs",
@@ -117,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Study.cs [Design]",
               "DocumentMoniker": "C:\\Users\\thedu\\source\\repos\\Viper\\Study.cs",
               "RelativeDocumentMoniker": "Study.cs",
