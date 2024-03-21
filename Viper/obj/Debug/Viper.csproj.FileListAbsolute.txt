@@ -1,0 +1,10 @@
+C:\Users\cased\source\repos\group_viper\Viper\bin\Debug\Viper.exe.config
+C:\Users\cased\source\repos\group_viper\Viper\bin\Debug\Viper.exe
+C:\Users\cased\source\repos\group_viper\Viper\bin\Debug\Viper.pdb
+C:\Users\cased\source\repos\group_viper\Viper\obj\Debug\Viper.csproj.AssemblyReference.cache
+C:\Users\cased\source\repos\group_viper\Viper\obj\Debug\Viper.formStudyProgram.resources
+C:\Users\cased\source\repos\group_viper\Viper\obj\Debug\Viper.Properties.Resources.resources
+C:\Users\cased\source\repos\group_viper\Viper\obj\Debug\Viper.csproj.GenerateResource.cache
+C:\Users\cased\source\repos\group_viper\Viper\obj\Debug\Viper.csproj.CoreCompileInputs.cache
+C:\Users\cased\source\repos\group_viper\Viper\obj\Debug\Viper.exe
+C:\Users\cased\source\repos\group_viper\Viper\obj\Debug\Viper.pdb
