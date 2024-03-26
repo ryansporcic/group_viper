@@ -32,5 +32,16 @@ namespace Viper
             }
             */
         }
+
+        public void shuffleDeck()
+        {
+            // Randomly rearrange the cards in the deck
+        }
+
+        public Card nextCard()
+        {
+            // Return the next Card in the deck
+            return Cards[0];
+        }
     }
 }
