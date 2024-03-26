@@ -18,3 +18,14 @@ C:\Users\thedu\source\repos\Viper\obj\Debug\Viper.csproj.GenerateResource.cache
 C:\Users\thedu\source\repos\Viper\obj\Debug\Viper.csproj.CoreCompileInputs.cache
 C:\Users\thedu\source\repos\Viper\obj\Debug\Viper.exe
 C:\Users\thedu\source\repos\Viper\obj\Debug\Viper.pdb
+C:\Fall 2023 College\CS114\viperstuff\Viper\bin\Debug\Viper.exe.config
+C:\Fall 2023 College\CS114\viperstuff\Viper\bin\Debug\Viper.exe
+C:\Fall 2023 College\CS114\viperstuff\Viper\bin\Debug\Viper.pdb
+C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.csproj.AssemblyReference.cache
+C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.frmStudy.resources
+C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.Properties.Resources.resources
+C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.csproj.GenerateResource.cache
+C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.csproj.CoreCompileInputs.cache
+C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.exe
+C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.pdb
+C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.login.resources
