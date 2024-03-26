@@ -29,3 +29,4 @@ C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.csproj.CoreCompileIn
 C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.exe
 C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.pdb
 C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.login.resources
+C:\Fall 2023 College\CS114\viperstuff\Viper\obj\Debug\Viper.frmAccountCreate.resources

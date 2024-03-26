@@ -34,5 +34,18 @@ namespace Viper
             study.ShowDialog();
             this.Close();
         }
+
+        private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
+        {
+
+        }
+
+        private void btnCreate_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmAccountCreate frmAccountCreate = new frmAccountCreate();
+            frmAccountCreate.ShowDialog();
+            this.Close();
+        }
     }
 }

@@ -36,6 +36,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
             this.btnCreate = new System.Windows.Forms.Button();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -105,6 +106,11 @@
             this.btnCreate.TabIndex = 6;
             this.btnCreate.Text = "Create an Account";
             this.btnCreate.UseVisualStyleBackColor = true;
+            this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
+            // 
+            // backgroundWorker1
+            // 
+            this.backgroundWorker1.DoWork += new System.ComponentModel.DoWorkEventHandler(this.backgroundWorker1_DoWork);
             // 
             // login
             // 
@@ -112,7 +118,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnCancel;
-            this.ClientSize = new System.Drawing.Size(571, 322);
+            this.ClientSize = new System.Drawing.Size(587, 355);
             this.Controls.Add(this.btnCreate);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -139,5 +145,6 @@
         private System.Windows.Forms.Label label2;
         private System.IO.FileSystemWatcher fileSystemWatcher1;
         private System.Windows.Forms.Button btnCreate;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
