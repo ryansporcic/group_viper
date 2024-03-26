@@ -1,0 +1,5 @@
+What color is the sky?,blue
+How many hours are in a day?,24
+What programming language do Windows forms use?,c#
+How many feet are in a mile?,5280
+What year did the USA declare independence?,1776
